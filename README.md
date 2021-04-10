@@ -1,2 +1,2 @@
 # pdss
-Private data safe storage framework
+Framework for safe storage of private data
